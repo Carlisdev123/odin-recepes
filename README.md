@@ -1,2 +1,2 @@
-# odin-recepes
+# odin-recipes
 foundations-recipes
